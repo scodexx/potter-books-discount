@@ -7,10 +7,15 @@ One copy of any of the five books costs 8 EUR. If, however, you buy two differen
 Your mission is to write a piece of code to calculate the price of any conceivable shopping basket, giving as big a discount as possible.
 
 >For example, how much does this basket of books cost?
-
+>
 > 2 copies of the first book
+> 
 > 2 copies of the second book
+> 
 > 2 copies of the third book
+> 
 > 1 copy of the fourth book
+> 
 > 1 copy of the fifth book
+> 
 > (answer: 51.20 EUR)
