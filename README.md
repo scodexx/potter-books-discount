@@ -19,3 +19,11 @@ Your mission is to write a piece of code to calculate the price of any conceivab
 > 1 copy of the fifth book
 > 
 > (answer: 51.20 EUR)
+
+### Installation
+
+1. Have node installed (11.7.0 or later)
+2. Clone repo
+3. `npm install`
+4. `npm run start`
+5. `http://localhost:3000/` to preview
